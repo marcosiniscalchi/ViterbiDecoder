@@ -1,0 +1,21 @@
+[Feature]
+[Model]
+[MAP]
+[Tree]
+FeaDim 39
+MaxObsNum 1000
+MaxFrameNum 1000
+MaxPhoneNum 100
+MaxStateNum 5
+MaxMixNum 16
+ModelNum 45
+VecSize 39
+CofPath /Users/marco1/C/ViterbiDecoder/MFC
+RecPath /Users/marco1/C/ViterbiDecoder/MLF
+FeaExtension mfc
+LabExtension mlf
+Model_list /Users/marco1/C/MAP/Model_list
+AdaptFileList /Users/marco1/C/MAP/AdaptFileList1
+TAU 5
+SP_NO 52  
+[EndSA]
